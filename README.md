@@ -1,0 +1,4 @@
+Altvista
+========
+
+Result oriented search
