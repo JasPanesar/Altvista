@@ -52,6 +52,9 @@ Finding the easiest and reasonable way to get search results and present them ha
 
 My current goal is to use the search for a long period of time to notice the subtle aspects I seek in search results and then revisit a new version.  I have some ideas for the UI, including building more of the functionality into the top bar.
 
+## Ideas
+
+Ideas, thoughts and comments are welcome.
 
 ## License
 
